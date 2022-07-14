@@ -1,4 +1,4 @@
-<h4>1. AKT Commerce(React,Redux,Reducer,Hooks) </h4>
+<h4>1. Books Store (React,Redux,Reducer,Hooks) </h4>
 
 <a href="https://jocular-cheesecake-f1a89a.netlify.app/" target="blank"><img src="https://i.ibb.co/wdG9mVz/1.png" ></a>
 
